@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>[Doctor's Name or Practice Name]</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      color: #333;
+      line-height: 1.6;
+      background-color: #f9f9f9;
+    }
+    header {
+      background-color: #4FC3F7;
+      color: #fff;
+      padding: 1rem 0;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+    }
+    section {
+      padding: 2rem;
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .specialties, .expertise {
+      margin: 2rem 0;
+    }
+    h2 {
+      border-bottom: 2px solid #4FC3F7;
+      padding-bottom: 0.5rem;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+    ul li {
+      background: #eaf7fd;
+      margin: 0.5rem 0;
+      padding: 0.5rem;
+      border-radius: 5px;
+    }
+    .contact {
+      text-align: center;
+      margin-top: 3rem;
+      padding: 2rem 0;
+      background-color: #4FC3F7;
+      color: #fff;
+    }
+    .contact a {
+      color: #fff;
+      text-decoration: underline;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem 0;
+      background-color: #333;
+      color: #fff;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Welcome to [Doctor's Name or Practice Name]</h1>
+    <p>Your partner in mental health and well-being</p>
+  </header>
+
+  <section class="specialties">
+    <h2>Specialties</h2>
+    <ul>
+      <li>ADHD</li>
+      <li>Women's Issues</li>
+    </ul>
+  </section>
+
+  <section class="expertise">
+    <h2>Areas of Expertise</h2>
+    <ul>
+      <li>Alcohol Use</li>
+      <li>Anxiety</li>
+      <li>Asperger's Syndrome</li>
+      <li>Autism</li>
+      <li>Bipolar Disorder</li>
+      <li>Coping Skills</li>
+      <li>Depression</li>
+      <li>Intellectual Disability</li>
+      <li>Life Transitions</li>
+      <li>Medication Management</li>
+      <li>Pregnancy, Prenatal, Postpartum</li>
+      <li>Sleep or Insomnia</li>
+      <li>Spirituality</li>
+      <li>Stress</li>
+      <li>Weight Loss</li>
+    </ul>
+  </section>
+
+  <div class="contact">
+    <h2>Contact Us</h2>
+    <p>📞 Phone: [Insert Number]</p>
+    <p>📧 Email: <a href="mailto:[Insert Email]">[Insert Email]</a></p>
+    <p>📍 Location: [Insert Address]</p>
+    <p>Ready to start? <a href="#">Schedule an appointment</a></p>
+  </div>
+
+  <footer>
+    <p>&copy; 2024 [Doctor's Name or Practice Name]. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
